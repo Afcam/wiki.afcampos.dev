@@ -1,23 +1,22 @@
-# Nextra Docs Template 
+# My Personal Field Guide
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fwiki.afcampos.dev)](https://wiki.afcampos.dev)
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+Welcome to my personal digital garden! This is a collection of notes, ideas, and resources that I've gathered over time. I use [Nextra](https://nextra.site) to create this garden.
 
 ## Quick Start
 
-Click the button to clone this repository and deploy it on Vercel:
+To get started with my digital garden, follow these steps:
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+1. Clone this repository: `git clone https://github.com/Afcam/wiki.afcampos.dev`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm run dev`
+4. Open your browser and go to `http://localhost:3000`
 
-## Local Development
+## Contributing
 
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+If you find a mistake or have a suggestion for a note, feel free to open an issue or a pull request. I'm always happy to receive feedback and improve my garden.
 
 ## License
 
-This project is licensed under the MIT License.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
