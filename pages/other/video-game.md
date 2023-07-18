@@ -1,11 +1,15 @@
 # Video Games
-Here I try  to list all video games i played and the age. with all platforms.
 
-I am most a PC gamer. But recently I started using a console Xbox one controller,  in computer and now the Nintendo switch pro. I find easy and more immersive that way.
+Here I try to list all video games i played and the age. with all platforms.
+
+I am most a PC gamer. But recently I started using a console Xbox one controller, in computer and now the Nintendo switch pro. I find easy and more immersive that way.
+
 ## PC
-Here the list is long. I started here and probably will die here. But i prefer to buy a good PC instead of PS or Xbox, make sense right.
+
+Here the list is long. I started here and probably will die here. But i prefer to buy a good PC instead of PS or Xbox.
 
 ### MMORPG
+
 MMORPGA is just a big part of my life. I used to play a lot and make friends online. Some may say is just a big waste of time but i enjoyed and remember i had a great time.
 
 - Albion
@@ -14,9 +18,10 @@ MMORPGA is just a big part of my life. I used to play a lot and make friends onl
 - Allods
 - PW - Perfect World
 - RuneScape
-- MU Online 
+- MU Online
 
 ### Online
+
 - Destiny 2
 - Combat Arms
 - Overwatch 2
@@ -25,14 +30,15 @@ MMORPGA is just a big part of my life. I used to play a lot and make friends onl
 - GunZ: The Duel
 - Team Fortress 2
 - League of Legends
-- SMITE 
+- SMITE
 - Dota 2
 - Warface
 - Fortnite
-- 
+-
 
 ### Offline
-- The Witcher 3: Wild Hunt 
+
+- The Witcher 3: Wild Hunt
 - Dark Souls: Prepare To Die
 - Dark Souls II
 - Dark Souls III
@@ -41,8 +47,8 @@ MMORPGA is just a big part of my life. I used to play a lot and make friends onl
 - Metro: Last Light Redux
 - Metro Exodus
 - Crysis 3
--  Far Cry 3 
--  Far Cry 4
+- Far Cry 3
+- Far Cry 4
 - Max Payne
 - Max Payne 3
 - DMC Devil May Cry
@@ -61,13 +67,13 @@ MMORPGA is just a big part of my life. I used to play a lot and make friends onl
 - BioShock Infinite
 - Injustice: Gods Among Us
 - The Sims 3
--  Nier: Automata
+- Nier: Automata
 - SimCity 2000
 - Ni No Kuni II: Revenant Kingdom
 - Shadow of the Tomb Raider
 - Grand Theft Auto V
 - Divinity: Original Sin II
-- Warcraft III: The Frozen Throne 
+- Warcraft III: The Frozen Throne
 - Darksiders II
 - Batman: Arkham Asylum
 - Batman: Arkham Origins
@@ -78,9 +84,10 @@ MMORPGA is just a big part of my life. I used to play a lot and make friends onl
 - Dirt 3
 - Need for Speed: Underground 2
 - Need for Speed Rivals
-- 
+-
 
-### Indie 
+### Indie
+
 - Hollow Knight
 - Super Meat Boy
 - Cuphead
@@ -88,39 +95,44 @@ MMORPGA is just a big part of my life. I used to play a lot and make friends onl
 - Braid
 - Firewatch
 - Ori and the Blind Forest
-- 
+-
+
 ## Play Station 4
+
 - Rocket League
 - The Binding of Issac
 
 ## Play Station 2
+
 Good days i just moved to another city and my internet wasn't good. so i just played ps2 the whole day wit my cousin.
 
 But i know i missed the best games that PS2 had to offer but hey i was 12 year. And my parents didn't like to buy for me. But GTA San Andreas and Winning Eleven fulfilled most of the time.
 
-- Grand Theft Auto: San Andreas 
+- Grand Theft Auto: San Andreas
 - Grand Theft Auto: Vice City
-- Guitar Hero 5 
+- Guitar Hero 5
 - Tony Hawk's American Wasteland
 - World Soccer Winning Eleven 6 International
-- Medal of Honor: European Assault 
-- Shadow the Hedgehog 
+- Medal of Honor: European Assault
+- Shadow the Hedgehog
 - Call of Duty 2: Big Red One
 - Yu-Gi-Oh! The Duelist of the Roses
-- Yu-Gi-Oh! Capsule Monster Coliseum 
+- Yu-Gi-Oh! Capsule Monster Coliseum
 - Need for Speed Carbon
 - Need for Speed: Most Wanted
-- Midnight Club 2 
+- Midnight Club 2
 - Fight Club
-- X-Men Legends II: Rise of Apocalypse 
+- X-Men Legends II: Rise of Apocalypse
 - The Lord of the Rings: The Return of the King
 - TMNT
-- 
+-
 
 ## Nintendo
-I love Nintendo. I started playing my first game with my cousin Super Nintendo, obviously Super Mario World and Mega Man X . Than years latter i received my  first console witch was an Game Boy Advanced SP with Pokemon Fire Red. A really happy day.
+
+I love Nintendo. I started playing my first game with my cousin Super Nintendo, obviously Super Mario World and Mega Man X . Than years latter i received my first console witch was an Game Boy Advanced SP with Pokemon Fire Red. A really happy day.
 
 ### Nintendo Switch
+
 - Pokémon Violet
 - Pokémon Legends: Arceus
 - Pokémon Brilliant Diamond
@@ -134,7 +146,9 @@ I love Nintendo. I started playing my first game with my cousin Super Nintendo, 
 - Crash Bandicoot - Crashiversary Bundle
 - Cozy Grove
 - Hollow Knight
+
 ### Game Boy Advanced SP
+
 - Pokemon Fire Red
 - Pokemon Saphire
 - Pokemon Ruby
@@ -143,13 +157,17 @@ I love Nintendo. I started playing my first game with my cousin Super Nintendo, 
 - Mario Kart Super Circuit
 
 ### Game Boy Collor
+
 - Pokemon Yellow
+
 ### Super Nintendo (SNES)
+
 - Mario Kart
 - Mega Man X
-- Wild Guns  
+- Wild Guns
 
 ## Mobile
+
 - Clash of Clans
 - Jetpack Joyride
 - Pokémon GO
